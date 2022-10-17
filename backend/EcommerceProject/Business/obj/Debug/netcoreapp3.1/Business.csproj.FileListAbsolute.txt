@@ -1,0 +1,34 @@
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Business\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Business\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Business\obj\Debug\netcoreapp3.1\Business.pdb
+C:\Users\aliem\Desktop\backend\SeniorProject\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\aliem\Desktop\backend\SeniorProject\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\aliem\Desktop\backend\SeniorProject\Business\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\Business\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\aliem\Desktop\backend\SeniorProject\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\aliem\Desktop\backend\SeniorProject\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\aliem\Desktop\backend\SeniorProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\aliem\Desktop\backend\SeniorProject\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliem\Desktop\backend\SeniorProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\aliem\Desktop\backend\SeniorProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\aliem\Desktop\backend\SeniorProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\aliem\Desktop\backend\SeniorProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\aliem\Desktop\backend\SeniorProject\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\Business\obj\Debug\netcoreapp3.1\Business.pdb

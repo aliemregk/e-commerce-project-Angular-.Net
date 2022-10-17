@@ -1,0 +1,148 @@
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\aliem\Desktop\backend\SeniorProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache

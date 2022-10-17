@@ -1,0 +1,8 @@
+li {
+  cursor: pointer;
+}
+
+.btn:focus {
+  outline: none;
+  box-shadow: none;
+}

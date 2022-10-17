@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SeniorProject",
+    "\\SeniorProject\\DataAccess",
+    "\\SeniorProject\\DataAccess\\Concrete",
+    "\\SeniorProject\\DataAccess\\Concrete\\EntityFramework"
+  ],
+  "SelectedNode": "\\SeniorProject\\DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+  "PreviewInSolutionExplorer": false
+}

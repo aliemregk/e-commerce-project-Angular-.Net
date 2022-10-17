@@ -1,0 +1,18 @@
+<nav class="py-2 border-bottom mb-4">
+  <div class="container d-flex flex-wrap justify-content-center">
+    <ul class="nav">
+      <p *ngIf="!dataLoaded">Data error.</p>
+      <div class="dropdown" *ngFor="let mainCategory of mainCategories">
+        <div class="nav-item" id="dropdownMenu">
+          <p class="nav-link link-dark px-4 mb-0">{{mainCategory.name}}</p>
+        </div>
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenu">
+          <li *ngFor="let category of categories">
+            <a class="dropdown-item" *ngIf="category.mainCategoryId == mainCategory.id"
+              routerLink="/products/category/{{category.id}}">{{category.name}}</a>
+          </li>
+        </ul>
+      </div>
+    </ul>
+  </div>
+</nav>

@@ -1,0 +1,47 @@
+<div class="container container d-flex flex-row justify-content-between">
+  <div class="container col-3 m-lg-0">
+    <ul class="list-group">
+      <li class="list-group-item" routerLink="/product-panel">
+        Products
+      </li>
+      <li class="list-group-item" routerLink="/maincategory-panel">
+        MainCategories
+      </li>
+      <li class="list-group-item" routerLink="/category-panel">
+        Categories
+      </li>
+      <li class="list-group-item" routerLink="/user-panel">
+        Users
+      </li>
+      <li class="list-group-item" routerLink="/order-panel">
+        Orders
+      </li>
+    </ul>
+  </div>
+  <div class="container col-9">
+    <table class="table table-light table-hover text-center">
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">User Name</th>
+          <th scope="col">Email</th>
+          <th scope="col">Phone</th>
+          <th scope="col">Address</th>
+          <th scope="col"></th>
+          <th scope="col"></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let user of users">
+          <th scope="row">{{users.indexOf(user) +1}}</th>
+          <td>{{user.firstName}} {{user.lastName}}</td>
+          <td>{{user.email}}</td>
+          <td>{{user.phone}}</td>
+          <td>{{user.address}}</td>
+          <td></td>
+          <td><button type="button" class="btn btn-outline-danger" (click)="deleteUser(user)">Delete</button></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

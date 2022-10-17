@@ -1,0 +1,14 @@
+<div *ngIf="!dataLoaded" class="spinner-border text-dark col-md-6" role="status">
+  <span class="visually-hidden">Loading...</span>
+</div>
+<ul *ngIf="dataLoaded" class="list-group">
+  <li routerLink="/products" class="list-group-item">
+    All Products
+  </li>
+  <li routerLink="/products/discounted" class="list-group-item">
+    Discounted Products
+  </li>
+  <li *ngFor="let category of categories" routerLink="/products/category/{{category.id}}" class="list-group-item">
+    {{category.name}}
+  </li>
+</ul>

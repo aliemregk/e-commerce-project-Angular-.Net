@@ -1,0 +1,29 @@
+<div class="container">
+  <h4 class="col-md-7 my-5 m-auto">Product Comments</h4>
+  <div class="col-md-7 my-3 m-auto">
+    <div class="h-100 p-4 bg-light border rounded-3" *ngIf="!comments">
+      <p class="w-75 m-auto fs-6">There is no comment.</p>
+    </div>
+  </div>
+  <div class="col-md-7 my-3 m-auto" *ngIf="comments">
+    <div class="h-100 p-4 bg-light border rounded-3" *ngFor="let comment of comments">
+      <p class=" m-auto fw-bold mb-2">{{comment.userName}}</p>
+      <p class=" m-auto fs-6">{{comment.content}}</p>
+    </div>
+  </div>
+  <div class="col-md-7 my-3  m-auto" *ngIf="loggedIn">
+    <div class="h-100 p-4 bg-light border rounded-3">
+      <div [formGroup]="commentAddForm" class="container col-md-10">
+        <div class="mb-3">
+          <label for="comment" class="fw-bold mb-2">User Name</label>
+          <div class="form-group">
+            <input id="comment" type="text" maxlength="100" class="form-control  fs-6" formControlName="content"
+              placeholder="Enter your comment here..">
+          </div>
+        </div>
+        <button class="btn btn-outline-primary" type="button" (click)="add()">Comment</button>
+      </div>
+    </div>
+  </div>
+
+</div>

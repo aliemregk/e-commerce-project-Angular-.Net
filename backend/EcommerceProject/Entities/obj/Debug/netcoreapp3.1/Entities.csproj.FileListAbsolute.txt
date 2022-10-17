@@ -1,0 +1,26 @@
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Entities\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Entities\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Ali Emre 5078871191\Desktop\SeniorP\SeniorProject\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\aliem\Desktop\backend\SeniorProject\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\aliem\Desktop\backend\SeniorProject\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\aliem\Desktop\backend\SeniorProject\Entities\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\Entities\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\aliem\Desktop\backend\SeniorProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+C:\Users\aliem\Desktop\backend\SeniorProject\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliem\Desktop\backend\SeniorProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\aliem\Desktop\backend\SeniorProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\aliem\Desktop\backend\SeniorProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\aliem\Desktop\backend\SeniorProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
+C:\Users\aliem\Desktop\backend\SeniorProject\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\aliem\Desktop\backend\SeniorProject\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

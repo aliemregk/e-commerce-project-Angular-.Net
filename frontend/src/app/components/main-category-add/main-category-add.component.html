@@ -1,0 +1,21 @@
+<div class="card col-md-8 m-auto">
+  <div class="card-header">
+    <h5 class="title">Add a new main category</h5>
+  </div>
+  <div class="card-body">
+    <div [formGroup]="mainCategoryAddForm" class="container col-md-10">
+      <div class="mb-3">
+        <label for="productName">Main Category Name</label>
+        <div class="form-group">
+          <input id="productName" type="text" class="form-control" formControlName="name"
+            placeholder="Enter product name here..">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="card-footer">
+    <div class="d-flex justify-content-center">
+      <button class="btn btn-fill btn-primary" (click)="add()">Add Main Category</button>
+    </div>
+  </div>
+</div>

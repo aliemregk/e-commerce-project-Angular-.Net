@@ -1,0 +1,10 @@
+span{
+    color: black !important;
+}
+tr{
+    cursor: pointer;
+}
+.btn:focus {
+    outline: none;
+    box-shadow: none;
+  }

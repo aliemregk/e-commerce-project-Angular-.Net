@@ -1,0 +1,35 @@
+<div class="card col-md-8 m-auto">
+  <div class="card-header">
+    <h5 class="title">Add a new category</h5>
+  </div>
+  <div class="card-body">
+    <div [formGroup]="categoryAddForm" class="container col-md-10">
+      <div class="mb-3">
+        <label for="categoryName">Category Name</label>
+        <div class="form-group">
+          <input id="categoryName" type="text" class="form-control" formControlName="name"
+            placeholder="Enter category name here..">
+        </div>
+      </div>
+      <div class="mb-3">
+        <label for="mainCategoryId">Main Category ID</label>
+        <div class="form-group">
+          <input id="mainCategoryId" type="number" class="form-control" [min]=1 max={{numberOfCategories}}
+            formControlName="mainCategoryId" placeholder="Enter main category id here..">
+        </div>
+      </div>
+      <div class="mb-3">
+        <label for="photoUrl">Category Cover Image</label>
+        <div class="form-group">
+          <input id="photoUrl" type="text" class="form-control" formControlName="photoUrl"
+            placeholder="Enter image url here..">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="card-footer">
+    <div class="d-flex justify-content-center">
+      <button class="btn btn-fill btn-primary" (click)="add()">Add Category</button>
+    </div>
+  </div>
+</div>

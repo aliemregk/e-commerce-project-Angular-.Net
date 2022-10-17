@@ -1,0 +1,47 @@
+<div *ngIf="!dataLoaded" class="spinner-border text-dark col-md-6" role="status">
+  <span class="visually-hidden">Loading...</span>
+</div>
+<div class="row align-items-md-stretch" *ngIf="dataLoaded">
+  <div class="col-md-6">
+    <div class="h-100 p-4 bg-light border rounded-3">
+      <h4>{{product.name}}</h4>
+      <p>{{product.description}}</p>
+      <div class="btn-group">
+        <button type="button" class="btn btn-primary" (click)="addToCart(product)">Add to cart</button>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6">
+    <div class="h-100 bg-light border rounded-3">
+      <div class="row">
+        <div class="col-12">
+          <div class="d-flex flex-row justify-content-center">
+            <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
+              <div class="carousel-inner w-100 h-100 rounded-3">
+                <div class="carousel-item active">
+                  <img [src]="product.coverImg" class="d-block w-100 h-100" alt="...">
+                </div>
+                <div class="carousel-item" *ngFor="let photo of photos">
+                  <img [src]="photo.url" class="d-block w-100 h-100" alt="...">
+                </div>
+              </div>
+              <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions"
+                data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+              </button>
+              <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions"
+                data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <app-comments></app-comments>
+  </div>
+</div>

@@ -1,0 +1,48 @@
+<div class="d-flex justify-content-center py-2">
+  <form class="col-5 mb-3 mb-lg-0" role="search">
+    <input type="text" [(ngModel)]="filterText" class="form-control" id="filterText" name="filterText"
+      placeholder="Search for something..">
+  </form>
+</div>
+<div class="container d-flex justify-content-center">
+  <div *ngIf="filterText" class="d-flex justify-content-center w-50 alert alert-primary">
+    Listing products for search {{filterText}}:
+  </div>
+</div>
+
+<div class="container d-flex flex-row justify-content-between">
+  <div class="col-2 me-1">
+    <app-category></app-category>
+  </div>
+
+  <div *ngIf="!dataLoaded" class="spinner-border text-dark col-md-6 m-auto" role="status">
+    <span class="visually-hidden">Loading...</span>
+  </div>
+
+  <div class="col-10">
+    <div class="row row-cols-2 row-cols-sm-2 row-cols-md-4 g-3">
+      <div class="col-2" *ngFor="let product of products | filterPipe:filterText">
+        <div class="card shadow-sm">
+          <img class="bd-placeholder-img card-img-top"
+            routerLink="/products/category/{{product.categoryId}}/productdetails/{{product.id}}"
+            [src]="product.coverImg" alt="{{product.name}} photo" style="height: 100%; width: 100%;">
+          <div class="card-body">
+            <div>
+              <div routerLink="/products/category/{{product.categoryId}}/productdetails/{{product.id}}">
+                <h6 class="card-title">{{product.name}}</h6>
+              </div>
+              <div class="d-flex justify-content-between">
+                <div class="price" routerLink="/products/category/{{product.categoryId}}/productdetails/{{product.id}}">
+                  <p>{{product.unitPrice | discount:product.discount}}</p>
+                </div>
+                <div class="btn-group">
+                  <button type="button" class="btn btn-primary" (click)="addToCart(product)">Add to cart</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

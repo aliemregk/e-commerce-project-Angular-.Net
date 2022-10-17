@@ -1,0 +1,51 @@
+<div class="container container d-flex flex-row justify-content-between">
+  <div class="container col-3 m-lg-0">
+    <ul class="list-group">
+      <li class="list-group-item" routerLink="/product-panel">
+        Products
+      </li>
+      <li class="list-group-item" routerLink="/maincategory-panel">
+        MainCategories
+      </li>
+      <li class="list-group-item" routerLink="/category-panel">
+        Categories
+      </li>
+      <li class="list-group-item" routerLink="/user-panel">
+        Users
+      </li>
+      <li class="list-group-item" routerLink="/order-panel">
+        Orders
+      </li>
+    </ul>
+  </div>
+  <div class="container col-9">
+    <table class="table table-light table-hover text-center">
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">User ID</th>
+          <th scope="col">Product ID</th>
+          <th scope="col">Total Price</th>
+          <th scope="col">Order Date</th>
+          <th scope="col">Delivery Date</th>
+          <th scope="col"></th>
+          <th scope="col"></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row">{{detail.id}}</th>
+          <td>{{detail.userName}}</td>
+          <td>{{detail.productName}}</td>
+          <td>{{detail.totalPrice}}</td>
+          <td>{{detail.orderDate}}</td>
+          <td *ngIf="detail.deliveryDate">{{detail.deliveryDate}}</td>
+          <td *ngIf="!detail.deliveryDate">Not delivered yet.</td>
+          <td><button type="button" class="btn btn-outline-primary"
+              routerLink="/order-panel/orderdetails/{{detail.id}}">Edit</button></td>
+          <td><button type="button" class="btn btn-outline-danger" (click)="deleteOrder(detail)">Delete</button></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

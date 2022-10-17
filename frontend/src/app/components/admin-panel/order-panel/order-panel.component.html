@@ -1,0 +1,53 @@
+<div class="container container d-flex flex-row justify-content-between">
+  <div class="container col-3">
+    <ul class="list-group">
+      <li class="list-group-item" routerLink="/product-panel">
+        Products
+      </li>
+      <li class="list-group-item" routerLink="/maincategory-panel">
+        MainCategories
+      </li>
+      <li class="list-group-item" routerLink="/category-panel">
+        Categories
+      </li>
+      <li class="list-group-item" routerLink="/user-panel">
+        Users
+      </li>
+      <li class="list-group-item" routerLink="/order-panel">
+        Orders
+      </li>
+    </ul>
+  </div>
+  <div class="container col-9">
+    <table class="table table-light table-hover text-center">
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">User Name</th>
+          <th scope="col">Product Name</th>
+          <th scope="col">Quantity</th>
+          <th scope="col">Total Price</th>
+          <th scope="col">Order Date</th>
+          <th scope="col">Delivery Date</th>
+          <th scope="col"></th>
+          <th scope="col"></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of items">
+          <th scope="row">{{items.indexOf(item) +1}}</th>
+          <td>{{item.userName}}</td>
+          <td>{{item.productName}}</td>
+          <td>{{item.quantity}}</td>
+          <td>{{item.totalPrice}}</td>
+          <td>{{item.orderDate}}</td>
+          <td *ngIf="item.deliveryDate">{{item.deliveryDate}}</td>
+          <td *ngIf="!item.deliveryDate">Not delivered yet.</td>
+          <td><button type="button" class="btn btn-outline-primary text-center" (click)="delivered(item)">Delivered</button></td>
+          <td><button type="button" class="btn btn-outline-danger" (click)="deleteOrder(item)">Delete</button></td>
+
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

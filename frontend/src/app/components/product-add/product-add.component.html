@@ -1,0 +1,56 @@
+<div class="card col-md-8 m-auto">
+  <div class="card-header">
+    <h5 class="title">Add a new product</h5>
+  </div>
+  <div class="card-body">
+    <div [formGroup]="productAddForm" class="container col-md-10">
+      <div class="mb-3">
+        <label for="productName">Product Name</label>
+        <div class="form-group">
+          <input id="productName" type="text" class="form-control" formControlName="name"
+            placeholder="Enter product name here..">
+        </div>
+      </div>
+      <div class="mb-3">
+        <label for="categoryId">Category ID</label>
+        <div class="form-group">
+          <input id="categoryId" type="number" [min]=1 max={{numberOfCategories}} class="form-control"
+            formControlName="categoryId" placeholder="Enter category ID here..">
+        </div>
+      </div>
+      <div class="mb-3">
+        <label for="unitsInStock">Stock Quantity</label>
+        <div class="form-group">
+          <input id="unitsInStock" type="number" class="form-control" formControlName="unitsInStock"
+            placeholder="Enter stock quantity here..">
+        </div>
+      </div>
+      <div class="mb-3">
+        <label for="unitPrice">Unit Price</label>
+        <div class="form-group">
+          <input id="unitPrice" type="number" class="form-control" formControlName="unitPrice"
+            placeholder="Enter unit price here..">
+        </div>
+      </div>
+      <div class="mb-3">
+        <label for="description">Product Description</label>
+        <div class="form-group">
+          <input id="description" type="text" class="form-control" formControlName="description"
+            placeholder="Enter product description here..">
+        </div>
+      </div>
+      <div class="mb-3">
+        <label for="photo">Product Photos</label>
+        <div class="form-group">
+          <input id="photo" type="text" class="form-control" formControlName="coverImg"
+            placeholder="Product cover photo..">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="card-footer">
+    <div class="d-flex justify-content-center">
+      <button class="btn btn-fill btn-primary" (click)="add()">Add Product</button>
+    </div>
+  </div>
+</div>

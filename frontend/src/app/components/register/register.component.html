@@ -1,0 +1,35 @@
+<body class="text-center col-3 m-auto my-5">
+  <main class="form-signin">
+    <form [formGroup]="registerForm">
+      <h1 class="h3 mb-3 fw-normal">Please sign up</h1>
+      <div class="form-floating">
+        <input formControlName="firstName" type="text" class="form-control" id="firstName" placeholder="Name">
+        <label for="firstName">First Name</label>
+      </div>
+      <div class="form-floating my-1">
+        <input formControlName="lastName" type="text" class="form-control" id="lastName" placeholder="Surname">
+        <label for="lastName">Last Name</label>
+      </div>
+      <div class="form-floating my-1">
+        <input formControlName="address" type="text" class="form-control" id="address" placeholder="Address">
+        <label for="address">Address</label>
+      </div>
+      <div class="form-floating my-1">
+        <input formControlName="phone" type="text" maxlength="11" class="form-control" id="phone" placeholder="0123 123 1231">
+        <label for="phone">Phone Number</label>
+      </div>
+      <div class="form-floating my-1">
+        <input formControlName="email" type="email" class="form-control" id="floatingInput"
+          placeholder="name@example.com">
+        <label for="floatingInput">Email address</label>
+      </div>
+      <div class="form-floating my-1">
+        <input formControlName="password" type="password" class="form-control" id="floatingPassword"
+          placeholder="Password">
+        <label for="floatingPassword">Password</label>
+      </div>
+      <button (click)="register()" class="w-100 btn btn-lg btn-primary my-3">Sign up</button>
+      <p class="mt-5 mb-3 text-muted">&copy;2022 Company, Inc</p>
+    </form>
+  </main>
+</body>
